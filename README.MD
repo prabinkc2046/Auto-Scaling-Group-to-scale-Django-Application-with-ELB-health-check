@@ -1,7 +1,7 @@
 # Auto-Scaling-Group-to-scale-Django-Application-with-ELB-health-check 
 In this project, I have used Django Application as an example to scale in or out using Auto Scaling Group. I will walk you through creating a VPC and setting up an Auto Scaling group. Additionally, I will show you how to address the ELB health check issue with the Auto Scaling group. There will be two videos. In the first one, we will set up the VPC and the Application Load Balancer. Later, we will create a launch template using the console and deploy the Django app using the Auto Scaling group.
 
-![Project Diagram](./AutoScalingGroup.png)
+![Project Diagram](https://www.canva.com/design/DAF2_6-HgOo/E16_NUIJBSDHCy9qNaJWSw/view?utm_content=DAF2_6-HgOo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [./AutoScalingGroup.png]
 
